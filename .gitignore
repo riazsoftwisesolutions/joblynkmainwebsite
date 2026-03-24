@@ -1,0 +1,5 @@
+nexelit-v4.1.0.zip
+*.zip
+.env
+node_modules/
+vendor/
